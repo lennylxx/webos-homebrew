@@ -1,0 +1,20 @@
+{
+  "packages": [
+    {
+      "id": "com.lennylxx.iptv",
+      "title": "webOS IPTV Player",
+      "iconUri": "https://raw.githubusercontent.com/lennylxx/webos-iptv-player/main/assets/icon130.png",
+      "manifestUrl": "https://github.com/lennylxx/webos-iptv-player/releases/latest/download/com.lennylxx.iptv.manifest.json",
+      "fullDescriptionUrl": "https://lennylxx.github.io/webos-iptv-player/",
+      "shortDescription": "An IPTV player for LG webOS TVs. Supports M3U playlists, Xtream Codes accounts, XMLTV program guides, and catch-up/timeshift playback."
+    },
+    {
+      "id": "com.lennylxx.devmodeforever",
+      "title": "Dev Mode Forever",
+      "iconUri": "https://raw.githubusercontent.com/lennylxx/lg-devmode-forever/main/app/icon.png",
+      "manifestUrl": "https://github.com/lennylxx/lg-devmode-forever/releases/latest/download/com.lennylxx.devmodeforever.manifest.json",
+      "fullDescriptionUrl": "https://github.com/lennylxx/lg-devmode-forever#readme",
+      "shortDescription": "Preserves Developer Mode, its official session token, and session time without root."
+    }
+  ]
+}
